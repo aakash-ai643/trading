@@ -1,0 +1,4 @@
+{
+    "trading_api_port": 8500,
+    "monitoring_port": 9000
+}
